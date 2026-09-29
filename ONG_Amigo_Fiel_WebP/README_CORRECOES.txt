@@ -1,0 +1,1 @@
+Projeto corrigido. Extraia esta pasta e abra-a no VS Code. Execute npm.cmd install, npm.cmd run build e npm.cmd run preview. Nao edite dist/index.html: ele e gerado automaticamente. A imagem foi colocada em public/IMG/dog.jpg e sera copiada para dist/IMG/dog.jpg.
